@@ -1,7 +1,7 @@
 services:
     - type: web
       runtime: 'node'
-      repo: https://github.com/cinepro-org/core
+      repo: https://github.com/fromthemoonx/cinepro-core
       name: cinepro-core
       plan: free
       autoDeploy: false
